@@ -1,4 +1,4 @@
-package Toys;
+
 
 public class Toy {
     private int id;
